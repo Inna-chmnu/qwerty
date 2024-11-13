@@ -9,7 +9,6 @@ int main()
     cout << "s = " << s << endl;
     return 0;
 }
-//тест системи контролю версій
-//коментар 1
+
 //qwertyililgkhjgcjgcjb mjv
 //Lr 8
