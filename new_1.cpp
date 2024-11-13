@@ -12,3 +12,4 @@ int main()
 //тест системи контролю версій
 //коментар 1
 //qwertyililgkhjgcjgcjb mjv
+//Lr 8
